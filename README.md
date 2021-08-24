@@ -1,5 +1,5 @@
 ![img.png](img.png)
-# When Dungeons Arise - Forge
+# When Dungeons Arise - Forge & Fabric
 Elegant -and likely hostile- roguelike dungeons and structures that generate on your worlds!
 
 This mod adds **30+ new structures**, focusing on imposing builds and catchy colours.
